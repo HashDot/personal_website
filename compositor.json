@@ -35,17 +35,12 @@
   "content": [
     {
       "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/HashDot/personal_website",
-          "text": "GitHub"
-        }
-      ]
+      "links": []
     },
     {
       "component": "header",
-      "heading": "personal_website",
-      "subhead": null,
+      "heading": "Lars \"HashDot\" Hampe",
+      "subhead": "Nerd - Developer - Founder",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -57,7 +52,9 @@
           "user": "HashDot",
           "repo": "personal_website"
         }
-      ]
+      ],
+      "slug": "",
+      "text": ""
     },
     {
       "component": "article",
@@ -70,12 +67,20 @@
       "component": "footer",
       "links": [
         {
-          "href": "https://github.com/HashDot/personal_website",
-          "text": "GitHub"
+          "href": "https://hafen.io",
+          "text": "HAFEN.IO"
         },
         {
           "href": "https://github.com/HashDot",
-          "text": "HashDot"
+          "text": "GitHub"
+        },
+        {
+          "href": "https://twitter.com/larshmp",
+          "text": "Twitter"
+        },
+        {
+          "href": "https://mastodon.hafen.io/@hashdot",
+          "text": "Mastodon"
         }
       ]
     }
